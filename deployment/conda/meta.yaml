@@ -1,4 +1,4 @@
-{% set name = "mypackage" %}
+{% set name = "mlpro_int_hyperopt" %}
 {% set version = "0.0.0" %}
 
 package:
@@ -26,7 +26,7 @@ requirements:
 
 test:
   imports:
-    - mypackage
+    - mlpro_int_hyperopt
 
 about:
   home: https://github.com/...
