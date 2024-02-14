@@ -42,4 +42,6 @@ Welcome to ...
    :caption: Appendices
    :glob:
 
+
    content/04_appendices/appendix1/main
+   content/04_appendices/appendix2/main
