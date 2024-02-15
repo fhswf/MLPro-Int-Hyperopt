@@ -2,8 +2,8 @@ from setuptools import setup
 
 
 setup(name='mlpro_int_hyperopt',
-version='1.0.0',
-description='MLPro: Integration River',
+version='0.1.0',
+description='MLPro: Integration Hyperopt',
 author='MLPro Team',
 author_mail='mlpro@listen.fh-swf.de',
 license='Apache Software License (http://www.apache.org/licenses/LICENSE-2.0)',
