@@ -12,7 +12,7 @@ Please install the following packages to run this examples properly:
 
 **Executable code**
 
-.. literalinclude:: ../../../../../../../../test/howtos/rl/howto_rl_ht_001_hyperopt.py
+.. literalinclude:: ../../../../../../../test/howtos/rl/howto_rl_ht_001_hyperopt.py
 	:language: python
 
 

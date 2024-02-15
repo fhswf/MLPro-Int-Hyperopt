@@ -8,4 +8,4 @@ The following examples demonstrate functionalities of the integration of Hyperop
    :maxdepth: 2
    :glob:
    
-   sub/*
+   howto/*
