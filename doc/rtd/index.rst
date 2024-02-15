@@ -42,16 +42,6 @@ Welcome to ...
 
 .. toctree::
    :maxdepth: 3
-   :caption: Welcome to ...
-   :glob:
-   :numbered:
-
-   content/01_welcome/sub/*
-
-
-
-.. toctree::
-   :maxdepth: 3
    :caption: Appendices
    :glob:
 
