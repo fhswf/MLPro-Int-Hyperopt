@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-MLPro-Int-River - Integration of River into MLPro
+MLPro-Int-Hyperopt - Integration of Hyperopt into MLPro
 =================================================
 
 Welcome to MLPro-Int-Hyperopt, an extension to MLPro to integrate the Hyperopt package.
@@ -36,9 +36,6 @@ in your MLPro applications. The use of these wrappers is illustrated in followin
    - `MLPro-Int-Hyperopt on GitHub <https://github.com/fhswf/MLPro-Int-Hyperopt>`_
 
 
-Welcome to ...
-
-
 
 .. toctree::
    :maxdepth: 3
@@ -46,5 +43,5 @@ Welcome to ...
    :glob:
 
 
-   content/04_appendices/appendix1/main
-   content/04_appendices/appendix2/main
+   content/02_appendices/appendix1/main
+   content/02_appendices/appendix2/main
