@@ -16,7 +16,9 @@ extras_require={
         "numpy",
         "matplotlib",
         "multiprocess",
-        "mlpro"
+        "mlpro",
+        "hyperopt",
+        "pandas"
     ],
 },
 
