@@ -38,25 +38,25 @@ in your MLPro applications. The use of these wrappers is illustrated in followin
 
 
 .. toctree::
-   :maxdepth: 3
-:caption: MLPRO-INT-HYPEROPT - EXAMPLE POOL
+   :maxdepth: 2
+   :caption: EXAMPLE POOL
    :glob:
 
 
-   content/01_Examples/appendix1/main
+   content/01_examples_pool/*
 
 .. toctree::
-   :maxdepth: 3
-   :caption: Appendices
+   :maxdepth: 2
+   :caption: API REFERENCES
    :glob:
 
 
-   content/02_appendices/appendix2/main
+   content/02_api_references/*
 
 .. toctree::
-   :maxdepth: 3
-   :caption: Appendices
+   :maxdepth: 2
+   :caption: ABOUT MLPRO-INT-HYPEROPT
    :glob:
 
 
-   content/03_About/main
+   content/03_about/*
