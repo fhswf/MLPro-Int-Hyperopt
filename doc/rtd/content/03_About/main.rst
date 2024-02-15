@@ -1,5 +1,5 @@
 .. _target_welcome:
-Welcome to ...
+About
 ================
 
 .. toctree::
