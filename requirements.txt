@@ -4,3 +4,4 @@ matplotlib
 multiprocess
 mlpro
 hyperopt
+pandas
