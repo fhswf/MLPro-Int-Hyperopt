@@ -2,7 +2,7 @@
 Hyperopt
 ========
 
-.. automodule:: wrappers.hyperopt
+.. automodule:: mlpro_int_hyperopt.wrappers.hyperopt
     :members:
     :undoc-members:
     :private-members:
