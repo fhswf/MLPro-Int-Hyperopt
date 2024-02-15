@@ -19,7 +19,7 @@ in your MLPro applications. The use of these wrappers is illustrated in followin
 
 
 **Preparation**
-   Before running the examples, please install the latest versions of MLPro, River, and MLPro-Int-River as follows:
+   Before running the examples, please install the latest versions of MLPro, Hyperopt, and MLPro-Int-Hyperopt as follows:
 
    .. code-block:: bash
 
