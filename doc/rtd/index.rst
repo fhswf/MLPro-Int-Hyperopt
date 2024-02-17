@@ -59,7 +59,7 @@ in your MLPro applications. The use of these wrappers is illustrated in followin
 
 .. toctree::
    :maxdepth: 2
-   :caption: ABOUT MLPRO-INT-HYPEROPT
+   :caption: ABOUT
    :glob:
 
 
