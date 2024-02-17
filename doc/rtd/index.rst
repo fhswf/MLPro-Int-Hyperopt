@@ -34,6 +34,11 @@ in your MLPro applications. The use of these wrappers is illustrated in followin
    - `MLPro-Int-Hyperopt on GitHub <https://github.com/fhswf/MLPro-Int-Hyperopt>`_
 
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   self
 
 .. toctree::
    :maxdepth: 2
