@@ -35,8 +35,9 @@ in your MLPro applications. The use of these wrappers is illustrated in followin
 
 
 .. toctree::
+   :hidden:
    :maxdepth: 2
-   :caption: Contents:
+   :caption: HOME
 
    self
 
