@@ -19,4 +19,4 @@ MLPro-Int-Hyperopt provides wrapper classes that enable the use of selected Hype
 ### Learn more
 [MLPro - Machine Learning Professional](https://mlpro.readthedocs.io)   
 [MLPro-Int-Hyperopt - Integration of Hyperopt into MLPro](https://mlpro-int-hyperopt.readthedocs.io)   
-[Hyperopt: Distributed Asynchronous Hyper-parameter Optimization](https://hyperopt.github.io/hyperopt/)   
+[Hyperopt: Distributed Asynchronous Hyperparameter Optimization](https://hyperopt.github.io/hyperopt/)   
