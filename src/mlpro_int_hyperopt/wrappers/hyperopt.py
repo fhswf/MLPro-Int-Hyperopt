@@ -19,10 +19,11 @@
 ## -- 2022-10-17  1.1.1     SY       Refactoring due to unit test
 ## -- 2023-04-12  1.1.2     SY       Refactoring
 ## -- 2024-02-01  2.0.0     LSB      Migrated to the new repository
+## -- 2024-04-18  2.1.0     DA       Assignment with MLPro v1.4.0
 ## -------------------------------------------------------------------------------------------------
 
 """
-Ver. 2.0.0 (2024-02-01)
+Ver. 2.1.0 (2024-04-18)
 
 This module provides a wrapper class for hyperparameter tuning by reusing the Hyperopt framework.
 
@@ -31,7 +32,7 @@ See also: https://pypi.org/project/hyperopt/
 """
 
 from hyperopt import *
-from mlpro.wrappers.models import Wrapper
+from mlpro.wrappers import Wrapper
 from mlpro.bf.ml import *
 from mlpro.bf.math import *
 from mlpro.bf.various import *

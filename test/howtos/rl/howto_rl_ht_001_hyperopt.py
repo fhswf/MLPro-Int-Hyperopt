@@ -1,6 +1,6 @@
 ## -------------------------------------------------------------------------------------------------
-## -- Project : MLPro - A Synoptic Framework for Standardized Machine Learning Tasks
-## -- Package : mlpro.rl.examples
+## -- Project : MLPro - The integrative middleware framework for standardized machine learning
+## -- Package : mlpro_int_hyperopt
 ## -- Module  : howto_rl_ht_001_hyperopt.py
 ## -------------------------------------------------------------------------------------------------
 ## -- History :
@@ -17,10 +17,11 @@
 ## -- 2022-11-21  1.1.1     DA       Corrections on logging
 ## -- 2023-03-27  1.2.0     DA       Refactoring
 ## -- 2024-02-01  2.0.0     LSB      Migrated to new repository
+## -- 2024-04-18  2.1.0     DA       Alignment with MLPro v1.4.0
 ## -------------------------------------------------------------------------------------------------
 
 """
-Ver. 2.0.0 (2024-02-01)
+Ver. 2.1.0 (2024-04-18)
 
 This module demonstrates how to utilize wrapper class for Hyperopt in RL context.
 
@@ -34,7 +35,7 @@ You will learn:
 
 """
 
-from mlpro.wrappers.hyperopt import *
+from mlpro_int_hyperopt import WrHPTHyperopt
 from mlpro.rl.pool.envs.bglp import BGLP
 from mlpro.rl import *
 import random
