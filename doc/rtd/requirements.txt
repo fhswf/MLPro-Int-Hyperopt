@@ -1,5 +1,5 @@
-mlpro[full]
-hyperopt
+mlpro[full]>=1.4.0
+hyperopt>=0.2.7
 
 sphinxcontrib-napoleon
 sphinx-copybutton
