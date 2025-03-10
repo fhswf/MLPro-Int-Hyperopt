@@ -28,11 +28,12 @@ Before running the examples, please install the latest versions of MLPro, Hypero
 
 
 **See also**
-   - `MLPro - Machine Learning Professional <https://mlpro.readthedocs.io>`_
+   - `MLPro - The integrative middleware framework for standardized machine learning in Python <https://mlpro.readthedocs.io>`_ 
    - `MLPro-BF-ML - Sub-framework for machine learning <https://mlpro.readthedocs.io/en/latest/content/02_basic_functions/mlpro_bf/sub/layer4_machine_learning/03_training_and_tuning.html>`_
    - `Hyperopt - Distributed Asynchronous Hyper-parameter Optimization <https://hyperopt.github.io/hyperopt/>`_
-   - `Further MLPro extensions <https://mlpro.readthedocs.io/en/latest/content/04_extensions/main.html>`_
    - `MLPro-Int-Hyperopt on GitHub <https://github.com/fhswf/MLPro-Int-Hyperopt>`_
+   - `MLPro-Int-Hyperopt on PyPI <https://pypi.org/project/mlpro-int-hyperopt>`_
+   - `Further MLPro extensions <https://mlpro.readthedocs.io/en/latest/content/04_extensions/main.html>`_
 
 
 .. toctree::
