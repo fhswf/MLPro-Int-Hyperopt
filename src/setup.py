@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 setup(name='mlpro_int_hyperopt',
-version='1.0.0',
+version='1.0.1',
 description='MLPro: Integration Hyperopt',
 author='MLPro Team',
 author_mail='mlpro@listen.fh-swf.de',
@@ -13,7 +13,8 @@ packages=['mlpro_int_hyperopt'],
 extras_require={
     "full": [
         "mlpro>=1.4.0",
-        "hyperopt>=0.2.7"
+        "hyperopt>=0.2.7",
+        "setuptools >= 80.3.1"
     ],
 },
 
