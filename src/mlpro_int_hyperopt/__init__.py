@@ -1,1 +1,1 @@
-from mlpro_int_hyperopt.wrappers.hyperopt import *
+from .wrappers import *
