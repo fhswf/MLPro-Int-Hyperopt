@@ -38,6 +38,7 @@ from mlpro.bf.ml import *
 from mlpro.bf.math import *
 from mlpro.bf.data import *
 from mlpro.bf import *
+from mlpro.bf.various import *
 from mlpro.rl import *
 from mlpro.gt.dynamicgames import *
 import os
