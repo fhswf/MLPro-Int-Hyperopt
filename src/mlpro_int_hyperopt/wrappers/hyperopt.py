@@ -36,6 +36,7 @@ from hyperopt import *
 from mlpro.wrappers import Wrapper
 from mlpro.bf.ml import *
 from mlpro.bf.math import *
+from mlpro.bf.data import *
 from mlpro.bf import *
 from mlpro.rl import *
 from mlpro.gt.dynamicgames import *
