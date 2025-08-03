@@ -44,6 +44,7 @@ from mlpro.bf.systems import *
 from mlpro.bf.plot import *
 from mlpro.bf.ml import *
 import random
+import numpy as np
 from pathlib import Path
 
 
