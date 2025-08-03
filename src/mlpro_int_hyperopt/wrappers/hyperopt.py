@@ -42,6 +42,7 @@ from mlpro.bf.various import *
 from mlpro.rl import *
 from mlpro.gt.dynamicgames import *
 import os
+import numpy as np
 
 # Export list for public API
 __all__ = ['WrHPTHyperopt']
