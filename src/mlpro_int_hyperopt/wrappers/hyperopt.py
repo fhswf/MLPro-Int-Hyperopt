@@ -20,10 +20,11 @@
 ## -- 2023-04-12  1.1.2     SY       Refactoring
 ## -- 2024-02-01  2.0.0     LSB      Migrated to the new repository
 ## -- 2024-04-18  2.1.0     DA       Assignment with MLPro v1.4.0
+## -- 2025-08-03  2.1.1     SY       Refactoring
 ## -------------------------------------------------------------------------------------------------
 
 """
-Ver. 2.1.0 (2024-04-18)
+Ver. 2.1.1 (2025-08-03)
 
 This module provides a wrapper class for hyperparameter tuning by reusing the Hyperopt framework.
 
@@ -35,10 +36,16 @@ from hyperopt import *
 from mlpro.wrappers import Wrapper
 from mlpro.bf.ml import *
 from mlpro.bf.math import *
+from mlpro.bf.data import *
+from mlpro.bf import *
 from mlpro.bf.various import *
-from mlpro.rl.models import *
+from mlpro.rl import *
 from mlpro.gt.dynamicgames import *
 import os
+import numpy as np
+
+# Export list for public API
+__all__ = ['WrHPTHyperopt']
 
 
 ## -------------------------------------------------------------------------------------------------
